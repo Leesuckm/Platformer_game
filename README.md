@@ -9,11 +9,12 @@ It's a game where you have to go over obstacles and monsters and face up.
 Current situation:
 Current Map 1F
 Monster: Skull, possum, frog, bat
+
 Item: Pickaxe, Sword, Gun, Bomb, Ladder, Potion
 
 Elements to implement:
-Background and sound effects
-Vosmonster
+Background and sound effects,
+Vosmonster,
 And joystick.
 
 For the current test, the input method is:
