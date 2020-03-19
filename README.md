@@ -1,5 +1,5 @@
-# Platformer_game
- game
+# Platformer_Game
+ Game
 This game is currently being created.
 Theme is Mobile 2d Platformer Game.
 To go from the ground to the ground
