@@ -20,3 +20,5 @@ And joystick.
 For the current test, the input method is:
 Move and Jump enter keyboard
 Attacks and ladders are set to buttons.
+
+Vidio : https://www.youtube.com/watch?v=Ksijo9a1CYw
