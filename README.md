@@ -6,8 +6,8 @@ To go from the ground to the ground
 Using all kinds of items
 It's a game where you have to go over obstacles and monsters and face up.
 
-Current situation:
-Current Map 1F
+Current situation: Current Map 1F
+
 Monster: Skull, possum, frog, bat
 
 Item: Pickaxe, Sword, Gun, Bomb, Ladder, Potion
